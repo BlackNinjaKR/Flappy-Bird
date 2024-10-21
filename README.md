@@ -2,7 +2,7 @@
 
 This project is a re-imagining of a Flappy Bird clone I originally developed and lost. After losing the first version, I decided to rebuild it from scratch, adding improvements along the way, while staying true to the simplicity and fun of the original game.
 
-Built using **Unity** and **C#**, this version introduces enhanced mechanics and new features that weren't present in the initial build.
+Built using **Unity** (2022.3.41f1) and **C#**, this version introduces enhanced mechanics and new features that weren't present in the initial build.
 
 ## 🚀 Features
 
