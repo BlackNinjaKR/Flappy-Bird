@@ -20,7 +20,7 @@ public class Pipe_Spawn_Script : MonoBehaviour
     {
         if (timer < spawnRate)
         {
-            timer = timer + Time.deltaTime;
+            timer = timer + Time.deltaTime; //Keeps the game consistent w.r.t to relative time
         }
         else
         {
